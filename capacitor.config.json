@@ -1,5 +1,5 @@
 {
-  "appId": "com.example.app",
+  "appId": "com.somethinguseful.childsupport",
   "appName": "npx-cap-sync-ios",
   "webDir": "dist",
   "plugins": {
